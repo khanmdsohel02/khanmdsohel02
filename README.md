@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Md.SoHeL</h1>
+<h1 align="center">Hi 👋, I'm Md. SoHeL</h1>
 <h3 align="center">MERN STACK DEVELOPER || FRONTEND REACT.JS DEVELOPER || FULL STACK DEVELOPER from Bangladesh</h3>
 
 - 🔭 I’m currently working on [Teeth Care](https://teeth-care-client.vercel.app/)
