@@ -8,15 +8,15 @@ This is Md.Sohel, an skilled and professional Full-stack web developer as well a
 
 
 <h3 align="left">PROGRAMMING SKILLS:</h3>
--Expertise: HTML, CSS, JavaScript (ES6), ReactJS
+- Expertise: HTML, CSS, JavaScript (ES6), ReactJS
 
--Comfortable: NodeJS, ExpressJS, MongoDB, Rest APIs
+- Comfortable: NodeJS, ExpressJS, MongoDB, Rest APIs
 
--Familiar: TailwindCSS, Material UI, React-Bootstrap
+- Familiar: TailwindCSS, Material UI, React-Bootstrap
 
--Tools: Vercel, Netlify, Firebase, VScode, Github, Chrome Dev tools, Figma
+- Tools: Vercel, Netlify, Firebase, VScode, Github, Chrome Dev tools, Figma
 
--Soft skill : Good Friendship Mind etc
+- Soft skill : Good Friendship Mind etc
 
 - -
 
