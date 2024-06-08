@@ -1,7 +1,7 @@
 
 ![I am Github readme Generator's creator](https://github.com/khanmdsohel02/khanmdsohel02/blob/main/Github%20Benar.png)
-<h1 align="left">Hi 👋, I'm Md. SoHeL</h1>
-<h3 align="left">MERN STACK DEVELOPER || FRONTEND REACT.JS DEVELOPER || FULL STACK DEVELOPER From Bangladesh</h3>
+<h1 align="left">Dear 👋, I'm Md. SoHeL</h1>
+<h3 align="left">MERN STACK DEVELOPER || FRONTEND REACT.JS DEVELOPER || FULL STACK DEVELOPER From Dhaka, Bangladesh</h3>
 
 Assalamu Alaikum,
 This is Md.Sohel, an skilled and professional Full-stack web developer as well as an Frontend ReactJS developer. I have been working in these fields for a while and achieved much experience. I want an opportunity to prove my worth in this field. I enjoy working online/offline. Languages skilled are English, Hindi, Bangla(Native), etc.
