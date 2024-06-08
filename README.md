@@ -21,14 +21,15 @@ This is Md.Sohel, an skilled and professional Full-stack web developer as well a
 
 
 --
-  
+- 📫 Contact Enail  **mdsohel.dev1@gmail.com**
+- 
+- 📫 See My Portfolio [Portfolio](https://sohel-dev-portfolio.vercel.app/)
 
 - 🔭 I’m currently working on [Teeth Care](https://teeth-care-client.vercel.app/)
 
 - 🌱 I’m currently learning **ReactJs, JavaScript, NodeJs, ExpressJs, Tailwind CSS**
 
-- 📫 Contact Enail  **mdsohel.dev1@gmail.com**
-- 📫 See My Portfolio [Portfolio](https://sohel-dev-portfolio.vercel.app/)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
