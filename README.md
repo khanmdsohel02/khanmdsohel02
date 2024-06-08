@@ -6,11 +6,11 @@
 Assalamu Alaikum,
 This is Md.Sohel, an skilled and professional Full-stack web developer as well as an Frontend ReactJS developer. I have been working in these fields for a while and achieved much experience. I want an opportunity to prove my worth in this field. I enjoy working online/offline. Languages skilled are English, Hindi, Bangla(Native), etc.
 
-#PROGRAMMING SKILLS:
+@PROGRAMMING SKILLS:
 - Expertise: HTML, CSS, JavaScript (ES6), ReactJS
- -Comfortable: NodeJS, ExpressJS, MongoDB, Rest APIs
- -Familiar: TailwindCSS, Material UI, React-Bootstrap
--Tools: Vercel, Netlify, Firebase, VScode, Github, Chrome Dev tools, Figma
+- Comfortable: NodeJS, ExpressJS, MongoDB, Rest APIs
+- Familiar: TailwindCSS, Material UI, React-Bootstrap
+- Tools: Vercel, Netlify, Firebase, VScode, Github, Chrome Dev tools, Figma
 - Soft skill : Good Friendship Mind etc
 
 - 🔭 I’m currently working on [Teeth Care](https://teeth-care-client.vercel.app/)
