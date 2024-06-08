@@ -3,12 +3,22 @@
 <h1 align="center">Hi 👋, I'm Md. SoHeL</h1>
 <h3 align="center">MERN STACK DEVELOPER || FRONTEND REACT.JS DEVELOPER || FULL STACK DEVELOPER From Bangladesh</h3>
 
+Assalamu Alaikum,
+This is Md.Sohel, an skilled and professional Full-stack web developer as well as an Frontend ReactJS developer. I have been working in these fields for a while and achieved much experience. I want an opportunity to prove my worth in this field. I enjoy working online/offline. Languages skilled are English, Hindi, Bangla(Native), etc.
+
+#PROGRAMMING SKILLS:
+- Expertise: HTML, CSS, JavaScript (ES6), ReactJS
+ -Comfortable: NodeJS, ExpressJS, MongoDB, Rest APIs
+ -Familiar: TailwindCSS, Material UI, React-Bootstrap
+-Tools: Vercel, Netlify, Firebase, VScode, Github, Chrome Dev tools, Figma
+- Soft skill : Good Friendship Mind etc
+
 - 🔭 I’m currently working on [Teeth Care](https://teeth-care-client.vercel.app/)
 
 - 🌱 I’m currently learning **ReactJs, JavaScript, NodeJs, ExpressJs, Tailwind CSS**
 
-- 📫 Contact Enail : **mdsohel.dev1@gmail.com**
-- 📫 [Portfolio](https://sohel-dev-portfolio.vercel.app/)
+- 📫 Contact Enail  **mdsohel.dev1@gmail.com**
+- 📫 See My Portfolio [Portfolio](https://sohel-dev-portfolio.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
