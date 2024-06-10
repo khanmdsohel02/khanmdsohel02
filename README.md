@@ -20,7 +20,7 @@ online/offline. Languages  skilled are English, Hindi, Bangla(Native), etc.
 - Comfortable: NodeJS, ExpressJS, MongoDB, Rest APIs
 
 - Familiar: TailwindCSS, Material UI
-- 
+  
 - Tools: Vercel, Netlify, Firebase, VScode, Github, Chrome Dev tools, Figma
 
 - Soft skill : Time Management, Communication, Teamwork
