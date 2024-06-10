@@ -24,6 +24,8 @@ This is Md.Sohel, an skilled and professional Full-stack web developer as well a
 - 📫 Contact Enail  **mdsohel.dev1@gmail.com**
   
 - 📫 See My Portfolio [Portfolio](https://sohel-dev-portfolio.vercel.app/)
+  
+- 📫 See My Resume [Resume](https://drive.google.com/file/d/1WOCL6GRvAKQyY4m0ncBnf-b01-dYayO5/view)
 
 - 🔭 I’m currently working on [Teeth Care](https://teeth-care-client.vercel.app/)
 
