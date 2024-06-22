@@ -21,7 +21,7 @@ online/offline. Languages  skilled are English, Hindi, Bangla(Native), etc.
 
 - Familiar: TailwindCSS, Material UI
   
-- Tools: Vercel, Netlify, Firebase, VScode, Github, Chrome Dev tools, Figma
+- Tools: Vercel,Render, Netlify, Firebase, VScode, Github, Chrome Dev tools, Figma
 
 - Soft skill : Time Management, Communication, Teamwork
 
