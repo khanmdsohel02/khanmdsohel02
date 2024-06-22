@@ -31,7 +31,7 @@ online/offline. Languages  skilled are English, Hindi, Bangla(Native), etc.
   
 - 📫 See My Portfolio [Portfolio](https://sohel-dev-portfolio.vercel.app/)
   
-- 📫 See My Resume [Resume](https://drive.google.com/file/d/1WOCL6GRvAKQyY4m0ncBnf-b01-dYayO5/view)
+- 📫 See My Resume [Resume](https://drive.google.com/file/d/1qCbaNde65JvXX7DZHqvniDYy5hQrsjpJ/view?usp=sharing)
 
 - 🔭 I’m currently working on [Teeth Care](https://teeth-care-client.vercel.app/)
 
