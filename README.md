@@ -29,6 +29,8 @@ online/offline. Languages  skilled are English, Hindi, Bangla(Native), etc.
 
 - 📫 Contact Enail  **mdsohel.dev1@gmail.com**
   
+- 📫 Call Me  **+880 1617303317**
+  
 - 📫 See My Portfolio [Portfolio](https://sohel-dev-portfolio.vercel.app/)
   
 - 📫 See My Resume [Resume](https://drive.google.com/file/d/1qCbaNde65JvXX7DZHqvniDYy5hQrsjpJ/view?usp=sharing)
