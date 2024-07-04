@@ -27,13 +27,13 @@ online/offline. Languages  skilled are English, Hindi, Bangla(Native), etc.
 
 ## 
 
-- 📫 Contact Enail  **mdsohel.dev1@gmail.com**
+-  Contact Enail  **mdsohel.dev1@gmail.com**
   
-- 📫 Call Me  **+880 1617303317, +880 1832716948**
+-  Call Me  **+880 1617303317, +880 1832716948**
   
-- 📫 See My Portfolio [Portfolio](https://sohel-dev-portfolio.vercel.app/)
+-  See My Portfolio [Portfolio](https://sohel-dev-portfolio.vercel.app/)
   
-- 📫 See My Resume [Resume](https://drive.google.com/file/d/1qCbaNde65JvXX7DZHqvniDYy5hQrsjpJ/view?usp=sharing)
+-  See My Resume [Resume](https://drive.google.com/file/d/1qCbaNde65JvXX7DZHqvniDYy5hQrsjpJ/view?usp=sharing)
 
 - 🔭 I’m currently working on [Fancy Clothe](https://github.com/khanmdsohel02/Fancy-Clothe)
 
