@@ -35,10 +35,7 @@ online/offline. Languages  skilled are English, Hindi, Bangla(Native), etc.
   
 - 📫 See My Resume [Resume](https://drive.google.com/file/d/1qCbaNde65JvXX7DZHqvniDYy5hQrsjpJ/view?usp=sharing)
 
-- 🔭 I’m currently working on [Teeth Care](https://teeth-care-client.vercel.app/)
-
-- 🌱 I’m currently learning **ReactJs, JavaScript, NodeJs, ExpressJs, Tailwind CSS**
-
+- 🔭 I’m currently working on [Fancy Clothe](https://github.com/khanmdsohel02/Fancy-Clothe)
 
 
 <h3 align="left">Connect with me:</h3>
