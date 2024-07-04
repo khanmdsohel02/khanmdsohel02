@@ -27,7 +27,7 @@ online/offline. Languages  skilled are English, Hindi, Bangla(Native), etc.
 
 ## 
 
--  Contact Enail  **mdsohel.dev1@gmail.com**
+-  Contact Email  **mdsohel.dev1@gmail.com**
   
 -  Call Me  **+880 1617303317, +880 1832716948**
   
