@@ -17,11 +17,11 @@ online/offline. Languages  skilled are English, Hindi, Bangla(Native), etc.
 
 - Expertise: HTML, CSS, JavaScript (ES6), ReactJS
 
-- Comfortable: NodeJS, ExpressJS, MongoDB, Rest APIs
+- Comfortable: NodeJS, ExpressJS, MongoDB
 
 - Familiar: TailwindCSS, Material UI
   
-- Tools: Vercel,Render, Netlify, Firebase, VScode, Github, Chrome Dev tools, Figma
+- Tools: Vercel,Render, Netlify, Firebase, VScode, Github,  Figma
 
 - Soft skill : Time Management, Communication, Teamwork
 
